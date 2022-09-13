@@ -47,14 +47,6 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 
 Demo演示
 ----------
-> * 注册演示
-
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0iz0dkleg30m80bxjyj.gif" height="429"/> </div>
-
-> * 登录演示
-
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0izcc0r1g30m80bxn6a.gif" height="429"/> </div>
-
 > * 请求图片文件演示(6M)
 
 <div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0juxrnlfg30go07x4qr.gif" height="429"/> </div>
